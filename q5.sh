@@ -15,7 +15,6 @@ done
 echo
 read inputagain
 length=$(expr length "$inputagain")
-echo $length
 for ((i=(length/2)-1;i>=0;i--))
 do
 	echo -n ${inputagain:i:1}
@@ -24,3 +23,4 @@ for ((i=length/2;i<length;i++))
 do
 	echo -n ${inputagain:i:1}
 done
+echo
