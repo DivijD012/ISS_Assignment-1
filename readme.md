@@ -1,5 +1,7 @@
 # DIRECTION FOR RUNNING SCIPTS
 
+## Link to github repo : https://github.com/DivijD012/ISS_Assignment-1.git
+
 ## Q1
  * Input format : Keep quotes.txt in the same folder as the script
  * How to run :		./q1.sh
